@@ -1,3 +1,6 @@
 [submodule "ask_calls"]
 	path = ask_calls
 	url = git@github.com:viernes/ask_calls.git
+[submodule "astk_calls_crm"]
+	path = astk_calls_crm
+	url = git@github.com:viernes/astk_calls_crm.git
